@@ -1,0 +1,29 @@
+.container {
+    background-color: #dadada;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.container-two {
+    min-height: 150px;
+    max-width: 321.5px;
+    background-color: #FFFFFF;
+}
+
+.button-wraper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,22 @@
+.input {
+    padding-right: 10px;
+    background-color: #AAAAFF;
+    height: 75px;
+    width: 500px;
+    border: 0;
+    text-align: right;
+    font-size: 24px;
+    font-family: 'Roboto', Arial;
+    color: white;
+}
+
+.input-div {
+    background-color: #AAFFAA;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: 'Roboto', Arial;
+    font-size: 24px;
+}
